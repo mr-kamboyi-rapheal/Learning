@@ -15,14 +15,14 @@ Learning and practicing how to use git and git hub commands
 - [ ] note done
 
 Rubii=Group-6
-`index.html
-`style.css
+```index.html
+```style.css
 
 | NO |    NAME    |  ROLE   |
-|----|------------|---------|
+-----------------------------
 |  1 |Kamboyi R   |Team lead| 
-|----|------------|---------|
+-----------------------------
 |  2 | member 2   |membwer 2|
-|----|------------|---------|
+-----------------------------
 
 [Live Demo](https://mr-kamboyi-rapheal.github.io/learning)

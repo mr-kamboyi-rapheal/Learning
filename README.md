@@ -14,9 +14,12 @@ Learning and practicing how to use git and git hub commands
 - [x] checklist done
 - [ ] note done
 
-Rubii=Group-6
-```index.html
-```style.css
+Rubii-Group-6
+```
+index.html
+style.css
+```
+
 
 | NO |    NAME    |  ROLE   |
 -----------------------------
